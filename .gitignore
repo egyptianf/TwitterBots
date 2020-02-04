@@ -1,0 +1,6 @@
+key.key
+login_data.txt
+passwords.bin
+twitterBaseRecoveryCode
+__pycache__/
+.dist/
